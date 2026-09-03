@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mongoose": "^9.9.4",
+    "package-name": "^0.1.0"
+  }
+}
