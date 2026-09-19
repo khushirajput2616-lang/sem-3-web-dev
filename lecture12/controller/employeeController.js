@@ -46,4 +46,5 @@ module.exports={
     getemployeeById,
     addemployee,
     updateemployee,
-    deleteemployee}
+    deleteemployee
+}
